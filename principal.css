@@ -1,0 +1,45 @@
+* {margin:0; padding:0;}
+
+body{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:center;
+	}
+.btn1 { 
+} 
+#Contenedor { 
+} 
+
+header{
+	}
+		
+iframe{
+	
+}
+
+#info
+{
+	 color:#FFF;
+}
+
+#fechas
+{
+	
+	}
+
+li {
+    list-style: none;
+
+}
+
+nav  {
+    box-sizing: border-box;
+}
+
+
+section{
+    box-sizing: border-box;
+}
+#ubicacion {
+	}
+
+
